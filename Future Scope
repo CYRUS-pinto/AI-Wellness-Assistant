@@ -1,0 +1,12 @@
+### 📜 Prototype Code (demo.py)
+```python
+# demo.py
+print("Welcome to the AI Education & Wellness Assistant Demo!")
+
+user_input = "I want to improve my productivity and fitness."
+print("User:", user_input)
+
+print("AI Assistant: Based on your input, I recommend a 25-minute focused learning session "
+      "followed by a 10-minute stretching exercise. Let's schedule it now.")
+
+print("Demo complete – future versions will integrate Azure APIs for real interaction.")
